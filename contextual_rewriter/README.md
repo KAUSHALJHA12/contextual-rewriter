@@ -1,0 +1,1 @@
+# Contextual Document Rewriter\n\nA full-stack AI-powered rewriting tool.
